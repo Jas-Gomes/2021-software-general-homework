@@ -4,9 +4,10 @@
 # Use for loops, while loops, and whatever else we've learned to 
 # set the variable x to the length of in_list - but you may NOT use len! 
 # Try to mimic the behavior of len.
-
-
-
+in_list = [1,2,3,4,5,6,7,8,9,]
+x = 0
+for x in in_list:
+ 
 
 ################################################
 # Create a program to accept words from a user, and add them to a dictionary. 
