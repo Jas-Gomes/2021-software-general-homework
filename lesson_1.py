@@ -1,9 +1,14 @@
-# Create a program in which the user creates 
-# a specific FRC team and store the following variables:
-	# Team Number (named team_number)
-	# Team Name (named team_name)
-	# Location (named location)
-	# Rookie Year (named rookie_year)
-	# Is Active (named is_active)
-# Be sure to store each variable as the correct type!
-print("hello world")
+team_number = input("What is the team number?")
+print(team_number)
+team_name = input ("What is the team name?")
+print(team_name)
+location = input("Where is the team located?")
+print(location)
+rookie_year = input("What year was the team started?")
+print(rookie_year)
+is_active = input("Is the team stil active?")
+print(team_number)
+print(team_name)
+print(location)
+print(rookie_year)
+print(is_active)
